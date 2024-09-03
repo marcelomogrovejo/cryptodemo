@@ -1,0 +1,24 @@
+{
+  "originHash" : "2494452d632bb99bea73a3a7dabb0989706d340c7672e77fc01c5e985f78a6f4",
+  "pins" : [
+    {
+      "identity" : "cryptorepopackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marcelomogrovejo/cryptorepopackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b51d36ffc2f4280e4444ba55981abf88469279dd"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    }
+  ],
+  "version" : 3
+}
