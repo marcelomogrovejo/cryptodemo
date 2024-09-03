@@ -1,5 +1,5 @@
 {
-  "originHash" : "2494452d632bb99bea73a3a7dabb0989706d340c7672e77fc01c5e985f78a6f4",
+  "originHash" : "5a59f68f8ea11774aba40fcee596e423bb6b11bc525e19fdc61b15b4cba13e0a",
   "pins" : [
     {
       "identity" : "cryptorepopackage",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/marcelomogrovejo/cryptorepopackage.git",
       "state" : {
         "branch" : "main",
-        "revision" : "b51d36ffc2f4280e4444ba55981abf88469279dd"
+        "revision" : "746491b8190815fd39b0517610879d42cc096d8e"
       }
     },
     {
