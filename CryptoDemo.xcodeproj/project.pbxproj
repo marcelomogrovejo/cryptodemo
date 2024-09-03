@@ -20,6 +20,8 @@
 		BDD96BB12C87013C0098F412 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = BDD96BB02C87013C0098F412 /* Kingfisher */; };
 		BDD96BB42C8703410098F412 /* Double+Formatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD96BB32C8703410098F412 /* Double+Formatter.swift */; };
 		BDD96BB72C871CBD0098F412 /* CryptoRepoPackage in Frameworks */ = {isa = PBXBuildFile; productRef = BDD96BB62C871CBD0098F412 /* CryptoRepoPackage */; };
+		BDD96BBB2C8723FA0098F412 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = BDD96BB92C8723FA0098F412 /* LICENSE.md */; };
+		BDD96BBC2C8723FA0098F412 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BDD96BBA2C8723FA0098F412 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		BD8B11FC2C86257B0058D960 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
 		BDD96BAA2C86EB800098F412 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		BDD96BB32C8703410098F412 /* Double+Formatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Formatter.swift"; sourceTree = "<group>"; };
+		BDD96BB92C8723FA0098F412 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = SOURCE_ROOT; };
+		BDD96BBA2C8723FA0098F412 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 		BD8B11E02C8614700058D960 /* CryptoDemo */ = {
 			isa = PBXGroup;
 			children = (
+				BDD96BB92C8723FA0098F412 /* LICENSE.md */,
+				BDD96BBA2C8723FA0098F412 /* README.md */,
 				BDD96BB22C87032C0098F412 /* Extension */,
 				BD8B11EF2C86149B0058D960 /* Scene */,
 				BD8B11E12C8614700058D960 /* CryptoDemoApp.swift */,
@@ -215,6 +221,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD8B11E92C8614730058D960 /* Preview Assets.xcassets in Resources */,
+				BDD96BBB2C8723FA0098F412 /* LICENSE.md in Resources */,
+				BDD96BBC2C8723FA0098F412 /* README.md in Resources */,
 				BD8B11E62C8614730058D960 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
